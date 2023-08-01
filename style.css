@@ -1,0 +1,119 @@
+/* Estilos para la barra de navegación */
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+/* Estilos para el título principal */
+h1 {
+    color:whitesmoke; /* Color de texto */
+    font-size: 45px;
+}
+
+/* Estilos para los elementos de la lista en la barra de navegación */
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+/* Estilos para los enlaces en la barra de navegación */
+a {
+    color: crimson; /* Color de texto */
+    text-decoration: none;
+}
+
+/* Estilos para los enlaces en la barra de navegación al pasar el mouse */
+a:hover {
+    color:purple; /* Cambiar el color al pasar el mouse por encima */
+}
+
+/* Estilos generales del cuerpo del documento */
+body {
+    font-family: Arial, sans-serif; /* Fuente del texto */
+    background-color: #9fcccc; /* Color de fondo del cuerpo */
+    margin: 0;
+    padding: 0;
+    color: #333; /* Color de texto general */
+}
+
+/* Estilos para el encabezado (header) */
+header {
+    background-color: #000000; /* Color de fondo del encabezado */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos para las listas desordenadas en la barra de navegación */
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* Estilos para los elementos de la lista en la barra de navegación */
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* Estilos para los enlaces en la barra de navegación */
+nav ul li a {
+    text-decoration: none;
+    color: #FFF; /* Color de texto de los enlaces en la barra de navegación */
+    font-size: 18px; /* Tamaño de fuente de los enlaces en la barra de navegación */
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilos para los títulos de H1 */
+h1 {
+    color: #000000; /* Color de texto del título */
+    text-align: center;
+}
+
+/* Estilos para los títulos de H2 */
+h2 {
+    color: #008000; /* Color de texto del título */
+}
+
+/* Estilos para los títulos de H3 */
+h3 {
+    color: #0000FF; /* Color de texto del título */
+}
+/* Estilos para los títulos de H5 */
+h5{
+    color: red; /* Color de texto del título */
+    text-align: center;
+}
+
+/* Estilos para los párrafos */
+p {
+    color: black; /* Color de texto de los párrafos */
+}
+
+/* Estilos para los enlaces */
+a {
+    color: #000; /* Color de texto de los enlaces */
+    text-decoration: none;
+}
+
+/* Estilos para las imágenes */
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+  
+  
+  
